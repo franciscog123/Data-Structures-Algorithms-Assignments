@@ -1,0 +1,49 @@
+run:
+Enter first letter of show, insert, remove, or exit: s
+heapArray: 100 90 80 30 60 50 70 20 10 40 
+..............................................................
+                                100
+                90                              80
+        30              60              50              70
+    20      10      40
+..............................................................
+Enter first letter of show, insert, remove, or exit: i
+Enter value to insert: 101
+Enter first letter of show, insert, remove, or exit: s
+heapArray: 101 100 80 30 90 50 70 20 10 40 60 
+..............................................................
+                                101
+                100                              80
+        30              90              50              70
+    20      10      40      60
+..............................................................
+Enter first letter of show, insert, remove, or exit: r
+Enter first letter of show, insert, remove, or exit: s
+heapArray: 100 90 80 30 60 50 70 20 10 40 
+..............................................................
+                                100
+                90                              80
+        30              60              50              70
+    20      10      40
+..............................................................
+Enter first letter of show, insert, remove, or exit: r
+Enter first letter of show, insert, remove, or exit: s
+heapArray: 90 60 80 30 40 50 70 20 10 
+..............................................................
+                                90
+                60                              80
+        30              40              50              70
+    20      10
+..............................................................
+Enter first letter of show, insert, remove, or exit: i
+Enter value to insert: 20
+Enter first letter of show, insert, remove, or exit: s
+heapArray: 90 60 80 30 40 50 70 20 10 20 
+..............................................................
+                                90
+                60                              80
+        30              40              50              70
+    20      10      20
+..............................................................
+Enter first letter of show, insert, remove, or exit: e
+BUILD SUCCESSFUL (total time: 2 minutes 53 seconds)

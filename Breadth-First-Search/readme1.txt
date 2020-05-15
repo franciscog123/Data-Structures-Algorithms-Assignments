@@ -1,0 +1,1 @@
+A program that performs breadth-first search to finds the minimum spanning tree. In main(), a graph is created with 9 vertices and 12 edges. These edges can be changed by the user. When the user runs the program, a breadth first search is displayed and then the minimum spanning tree is displayed.

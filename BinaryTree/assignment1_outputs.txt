@@ -1,0 +1,46 @@
+run:
+Enter first letter of show, insert, or traverse. Type e to exit program: s
+......................................................
+                                                                +                                                                                                                              
+                                +                                                              D                                                              
+                +                              C                              --                              --                              
+        A              B              --              --              --              --              --              --              
+......................................................
+Enter first letter of show, insert, or traverse. Type e to exit program: i
+Enter value to insert: e
+Enter first letter of show, insert, or traverse. Type e to exit program: s
+......................................................
+                                                                +                                                                                                                              
+                                +                                                              e                                                              
+                +                              D                              --                              --                              
+        +              C              --              --              --              --              --              --              
+    A      B      --      --      --      --      --      --      --      --      --      --      --      --      --      --      
+......................................................
+Enter first letter of show, insert, or traverse. Type e to exit program: f
+Invalid entry
+Enter first letter of show, insert, or traverse. Type e to exit program: i
+Enter value to insert: f
+Enter first letter of show, insert, or traverse. Type e to exit program: s
+......................................................
+                                                                +                                                                                                                              
+                                +                                                              f                                                              
+                +                              e                              --                              --                              
+        +              D              --              --              --              --              --              --              
+    +      C      --      --      --      --      --      --      --      --      --      --      --      --      --      --      
+  A  B  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  --  
+......................................................
+Enter first letter of show, insert, or traverse. Type e to exit program: t
+Enter type 1, 2 or 3: 1
+
+Preorder traversal: + + + + + A B C D e f 
+Enter first letter of show, insert, or traverse. Type e to exit program: t
+Enter type 1, 2 or 3: 2
+
+Inorder traversal:  A + B + C + D + e + f 
+Enter first letter of show, insert, or traverse. Type e to exit program: t
+Enter type 1, 2 or 3: 3
+
+Postorder traversal: A B + C + D + e + f + 
+Enter first letter of show, insert, or traverse. Type e to exit program: e
+Goodbye
+BUILD SUCCESSFUL (total time: 2 minutes 35 seconds)

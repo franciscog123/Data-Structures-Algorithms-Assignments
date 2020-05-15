@@ -1,0 +1,4 @@
+run:
+Visits: ABCDEFGHI
+Minimum spanning tree: AB AC AD AE AF AG AH AI 
+BUILD SUCCESSFUL (total time: 0 seconds)
