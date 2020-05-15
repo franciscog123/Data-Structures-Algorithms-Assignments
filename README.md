@@ -1,5 +1,5 @@
 # Data-Structures-Algorithms-Assignments
-A small collection of Java console programs created for my academic Data Structures and Algorithms Class
+A small collection of Java console programs created for my academic Data Structures and Algorithms Class. Created using NetBeans IDE.
 
 Directory name/Description
 - BinaryTree
